@@ -1,4 +1,4 @@
-# Official Wallpaper
+# Miracle Factory Official Wallpaper
 This repo contains all the official-made wallpapers released by MiracleFactory
 
 ### Links to Wallpapers
